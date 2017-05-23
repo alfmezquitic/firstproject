@@ -1,0 +1,28 @@
+<?php
+// created: 2017-05-03 13:57:25
+$mod_strings = array (
+  'LBL_ID' => 'ID',
+  'LBL_DATE_ENTERED' => 'Fecha de creación',
+  'LBL_DATE_MODIFIED' => 'Date de modification',
+  'LBL_MODIFIED' => 'Fecha de modificación',
+  'LBL_MODIFIED_ID' => 'Modificado por Id',
+  'LBL_MODIFIED_NAME' => 'Modificado por Nombre',
+  'LBL_CREATED' => 'Creado por',
+  'LBL_CREATED_ID' => 'Creado por Id',
+  'LBL_DESCRIPTION' => 'Descripción',
+  'LBL_DELETED' => 'Suprimir',
+  'LBL_NAME' => 'Nombre en clave del usuario',
+  'LBL_CREATED_USER' => 'Creado Por Usuario',
+  'LBL_MODIFIED_USER' => 'Modificado por Usuario',
+  'LBL_LIST_NAME' => 'Nombre en clave',
+  'LBL_ASSIGNED_TO_ID' => 'Asignado a usuario con Id',
+  'LBL_ASSIGNED_TO_NAME' => 'Usuario',
+  'LBL_CONSKEY' => 'Clave del usuario',
+  'LBL_CONSSECRET' => 'Secreto del usuario',
+  'LBL_LIST_FORM_TITLE' => 'Claves OAuth',
+  'LBL_MODULE_NAME' => 'Claves OAuth',
+  'LBL_MODULE_TITLE' => 'Claves OAuth',
+  'LNK_NEW_RECORD' => 'Crear clave OAuth',
+  'LNK_LIST' => 'Ver claves OAuth',
+  'LBL_TOKENS' => 'Token',
+);

@@ -1,0 +1,28 @@
+<?php
+// created: 2017-05-03 13:57:23
+$mod_strings = array (
+  'LBL_ASSIGNED_TO_ID' => 'Asignado a Usuario con Id',
+  'LBL_ASSIGNED_TO_NAME' => 'Asignado a',
+  'LBL_NAME' => 'Nombre de Tarea',
+  'LBL_EXECUTE_TIME' => 'Hora de Ejecución',
+  'LBL_SCHEDULER_ID' => 'Programador',
+  'LBL_STATUS' => 'Estado de la Tarea',
+  'LBL_RESOLUTION' => 'Resultado',
+  'LBL_MESSAGE' => 'Mensajes',
+  'LBL_DATA' => 'Fecha de la Tarea',
+  'LBL_REQUEUE' => 'Volver a intentar en caso de fallo',
+  'LBL_RETRY_COUNT' => 'Intentos máximos',
+  'LBL_FAIL_COUNT' => 'Fracasos',
+  'LBL_INTERVAL' => 'Intervalo mínimo entre intentos',
+  'LBL_CLIENT' => 'Cliente propietario',
+  'LBL_PERCENT' => '% Completado',
+  'ERR_CALL' => 'No se puede llamar a la función: %s',
+  'ERR_CURL' => 'No CURL - no se puede ejecutar la URL de la Tarea',
+  'ERR_FAILED' => 'Error inesperado, por favor consulte los registros de PHP y sugarcrm.log',
+  'ERR_PHP' => '%s [%d]: %s en %s en la línea %d',
+  'ERR_NOUSER' => 'Ningún ID de usuario especificado en la Tarea',
+  'ERR_NOSUCHUSER' => 'ID de Usuario %s no encontrado',
+  'ERR_JOBTYPE' => 'Tipo de tarea desconocido: %s',
+  'ERR_TIMEOUT' => 'Fracaso forzado por tiempo de espera agotado',
+  'ERR_JOB_FAILED_VERBOSE' => 'Tarea %1$s (%2$s) falla en ejecutar el cron',
+);
